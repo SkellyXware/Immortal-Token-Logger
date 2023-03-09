@@ -24,7 +24,7 @@ That's why I won't be responsible for any damage caused by this script if you us
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌌・Discord]([https://discord.gg/blackcap](https://discord.gg/AsMKrvjm8J))
+- [🌌・Discord]([https://discord.gg/AsMKrvjm8J})
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
 - [📝・Changelog](#changelog)
@@ -168,35 +168,3 @@ v2.3.9: 2023-21-01
 v2.3.9.5 2023-31-01
 + NEW OBFUSCATION OP (-6 detection on virustotal)
 ```
-
-
-### Authors
-- [@KSCH](https://github.com/KSCHdsc)
-- [@NotFubukIl](https://github.com/NotFubukIl)
-- [@HisSlot](https://github.com/HisSlot)
-- [@Sans](https://github.com/002-sans)
-- [@loTus](https://github.com/loTus04)
-
-### Contributors (CapingTeam)
-- Xenis
-- Nono1337
-- Irax212
-- Shamroks
-
-### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
-- Hazard Grabber
-- PirateStealer
-- Wasp-stealer
-- Builder by Luna token grabber 
-
-
-### <a id="terms"></a>💼 〢 Terms Of Usage
-
-- [x] Educational purpose only
-- [x] Reselling is forbidden
-- [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
-- [x] We are NOT responsible of anything you do with our software (if its illegal)
-
-
-<a href=#top>Back to Top</a></p>
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/mona-loading-dark.gif)
