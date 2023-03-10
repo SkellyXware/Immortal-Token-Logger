@@ -24,7 +24,7 @@ That's why I won't be responsible for any damage caused by this script if you us
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌌・Discord]([https://discord.gg/AsMKrvjm8J])
+- [🌌・Discord](https://discord.gg/AsMKrvjm8J)
 - [🔰・Features](#features)
 - [👁️・Features Explanation](#explanation)
 - [📝・Changelog](#changelog)
